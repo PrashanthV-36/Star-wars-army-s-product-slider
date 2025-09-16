@@ -2,7 +2,7 @@
 
 This project is a Star Wars-themed product slider built using HTML, CSS, and JavaScript. It showcases a sleek, interactive slider designed to display Star Wars army collectibles, weapons, and characters in a visually engaging way.
 
-##✨ Features:
+## ✨ Features:
 
 Smooth sliding animations for a modern user experience.
 
@@ -14,5 +14,5 @@ Easy navigation with next/previous controls.
 
 Perfect for showcasing products, collectibles, or fan-made designs.
 
-##🚀 Use Case:
+## 🚀 Use Case:
 This slider can be integrated into e-commerce websites, fan pages, or portfolio projects to highlight Star Wars-inspired items in a unique, interactive style.
